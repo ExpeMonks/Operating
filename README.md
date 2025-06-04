@@ -1,4 +1,4 @@
-# 授業中のリソースの置き場 : 07/14(水)
+# fantMessenger
 ajax の get を行う為のテンプレート
 
 ## jQuery 側の json オブジェクトの準備
