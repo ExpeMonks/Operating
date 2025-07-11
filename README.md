@@ -1,4 +1,4 @@
-# parakeet
+# Operating
 ajax の get を行う為のテンプレート
 
 ## jQuery 側の json オブジェクトの準備
